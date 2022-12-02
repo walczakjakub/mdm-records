@@ -16,7 +16,7 @@
 
 const artistsArray = [wiked, lilCap, mollyRollin, sparkyKNE, cocaineCowboy, saintBalenci, bigToe, 
   blackNWhite, jarne, jakeUp, eliPorter, aubreyAdams, tonyGarcia, raidenRufio, aliceHefner, harlowAustin,
-  z3d, lukeD, ljHuncho, brisBane, klaas2, font, patywp, luissssa, kalera] 
+  z3d, lukeD, ljHuncho, brisBane, klaas2, font, patywp, luissssa, kalera, RJ1] 
 
 const contentDiv = document.getElementById('content');
 console.log(contentDiv)
